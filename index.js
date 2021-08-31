@@ -1,3 +1,4 @@
+alert("Yayyy");
 var randomNumber1 = Math.floor((Math.random() * 6) + 1);
 var ans = document.querySelector(".img1");
 ans.getAttribute("src");
